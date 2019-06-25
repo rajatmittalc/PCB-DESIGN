@@ -9,7 +9,7 @@ Week 1
 I will learn basis of eagle software and pcb fabrication through google and youtube tutorials.
 
 Week2-
-Will go above basics and practice more on eagle and will try hands on various other minute things whise knowledge  is required during designing  process.
+Will go above basics and practice more on eagle and will try hands on various other minute things whose knowledge  is required during designing  process on eagle.
 
 Week 3-
-Will try to implement the gathered knowledge to complete my project and design a sinhle layer pcb for home automation project. 
+Will try to implement the gathered knowledge to complete my project and design a single layer pcb for home automation project. 
