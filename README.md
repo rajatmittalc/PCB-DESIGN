@@ -1,5 +1,5 @@
 # PCB-DESIGN
-In this practice project i will learn how to use eagle software to design pcb boards.I will design single layer pcb fpr home automation model .
+In this practice project i will learn how to use eagle software to design pcb boards.I will design single layer pcb for home automation model .
 
 Date of start -24/06/19 
 Deadline-15/07/19
