@@ -5,11 +5,10 @@ Date of start -24/06/19
 Deadline-15/07/19
 
 Timeline-
-Week 1
-I will learn basis of eagle software and pcb fabrication through google and youtube tutorials.
+Upto july 6
+I WILL GO THROUGH ALL BASICS REQUIRED FOR PCB DESIGNING ON EAGLE AND WILL TRY TO PRACTISE THEM WELL.
 
-Week2-
-Will go above basics and practice more on eagle and will try hands on various other minute things whose knowledge  is required during designing  process on eagle.
-
-Week 3-
-Will try to implement the gathered knowledge to complete my project and design a single layer pcb for home automation project. 
+upto july 12
+ I WILL PRACTISE SOME SAMPLE DESIGNS AND GATHER SOME CONFIDENCE .
+  
+THEN I WILL COMPLETE MY PROJECT OF MAKING PCB DESIGN FOR HOME AUTOMATION MODEL TILL 15 OF JULY. 
